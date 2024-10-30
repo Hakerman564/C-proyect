@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\microprestamo\microprestamo\bin\Debug\net6.0\microprestamo.exe
+C:\Users\DELL\source\repos\microprestamo\microprestamo\bin\Debug\net6.0\microprestamo.deps.json
+C:\Users\DELL\source\repos\microprestamo\microprestamo\bin\Debug\net6.0\microprestamo.runtimeconfig.json
+C:\Users\DELL\source\repos\microprestamo\microprestamo\bin\Debug\net6.0\microprestamo.dll
+C:\Users\DELL\source\repos\microprestamo\microprestamo\bin\Debug\net6.0\ref\microprestamo.dll
+C:\Users\DELL\source\repos\microprestamo\microprestamo\bin\Debug\net6.0\microprestamo.pdb
+C:\Users\DELL\source\repos\microprestamo\microprestamo\obj\Debug\net6.0\microprestamo.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\microprestamo\microprestamo\obj\Debug\net6.0\microprestamo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\microprestamo\microprestamo\obj\Debug\net6.0\microprestamo.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\microprestamo\microprestamo\obj\Debug\net6.0\microprestamo.AssemblyInfo.cs
+C:\Users\DELL\source\repos\microprestamo\microprestamo\obj\Debug\net6.0\microprestamo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\microprestamo\microprestamo\obj\Debug\net6.0\microprestamo.dll
+C:\Users\DELL\source\repos\microprestamo\microprestamo\obj\Debug\net6.0\ref\microprestamo.dll
+C:\Users\DELL\source\repos\microprestamo\microprestamo\obj\Debug\net6.0\microprestamo.pdb
+C:\Users\DELL\source\repos\microprestamo\microprestamo\obj\Debug\net6.0\microprestamo.genruntimeconfig.cache
